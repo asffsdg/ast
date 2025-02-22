@@ -6,11 +6,11 @@ yso = '2005'
 pss=input( m"33;1[2005m Enter password:35;1[033m[~]37;1[033")
 إذا pss == yso:
 passes
-print( m Success password "32; 1 [033")
+print( m Success password  aemn
 Bedtime (1)
 Operating System ("Clear")
 last:
-الخروج (' 31 ؛ 1 [033m WORNG PASSWORD ')
+الخروج m WORNG PASSWORD ')aemn
 Import operating system
 Import requests, bs4, json, os, sys, random, date 2025, time, re
 Import urllib3, Rich, base64
